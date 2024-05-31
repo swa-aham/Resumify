@@ -12,7 +12,7 @@ const Hero = () => {
         land your dream job!
       </h1>
       <p className="max-w-[550px] text-lg mt-3 pt-3 leading-8 text-center text-[#71797E]">
-        Easily create the perfect resume for any job using <strong>Resumify</strong>. <br />
+        Easily create a perfect resume for any job using <strong>Resumify</strong>. <br />
         Catch the attention of your future employer!
       </p>
 
