@@ -6,8 +6,8 @@
 Easily create a perfect resume for any job using Resumify within minutes.
 
 ## Features
-- Resume builder
-- AI powered resume roaster
+- Resume Builder
+- AI-powered resume roaster
 
 ## Technologies Used
 
