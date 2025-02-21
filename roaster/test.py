@@ -5,7 +5,6 @@ from dotenv import load_dotenv
 load_dotenv()
 
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
-# GEMINI_API_KEY = "AIzaSyDn4CvgeYp2J4c9O2xEqC1gLe1b9U3X9iY"
 GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent"  # Base URL without the key
 
 def get_gemini_response(text):
