@@ -98,8 +98,8 @@ const Footer = () => {
             <br />
             Developed and designed by
             <a
-              href="https://sva-aham.vercel.app"
-              className="text-purple-400 hover:text-purple-300 transition-colors ml-1"
+              href="https://www.linkedin.com/in/soham-mandaviya/"
+              className="text-purple-400 hover:text-purple-300 transition-colors ml-1 underline"
             >
               Soham Mandaviya
             </a>
